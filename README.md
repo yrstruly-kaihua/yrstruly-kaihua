@@ -5,9 +5,10 @@
 <b>welcome to my GITHUB profile.</b>  
 
 <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/dd71c370-679e-4049-85af-3e7328ac2ee6" />
-  Hello, i'm an IT student who's currently interested in mosty front end specializing in designing.
+  Hello, i'm an IT student who's currently interested in mosty front end specializing in designing. <br> front end... mostly. <br> listed below are the links in which you may contact me!
 
- [discord](https://discordapp.com/users/786583434893852702) | [facebook](https://www.facebook.com/mellow.woof)
+ <img width="13" height="13" alt="image" src="https://github.com/user-attachments/assets/46822432-6694-4fa8-a475-3023aff6a511" /> [discord](https://discordapp.com/users/786583434893852702) | <img width="13" height="13" alt="image" src="https://github.com/user-attachments/assets/1d65109d-15ff-4bd3-9c89-31ce02c798ee" />
+ [facebook](https://www.facebook.com/mellow.woof)
 
 ---
 
